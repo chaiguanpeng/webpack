@@ -1,0 +1,34 @@
+{
+  "name": "2.webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpackconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "html-withimg-loader": "^0.1.16",
+    "mini-css-extract-plugin": "^0.4.3",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "postcss-loader": "^3.0.0",
+    "style-loader": "^0.23.0",
+    "ts-loader": "^5.2.1",
+    "url-loader": "^1.1.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.1.9"
+  },
+  "dependencies": {
+    "global": "^4.3.2",
+    "typescript": "^3.0.3"
+  }
+}
