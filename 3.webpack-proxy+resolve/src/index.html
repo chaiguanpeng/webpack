@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+</head>
+<body>
+    <div id="root">
+        <img src="./logo.png" alt="">
+        <button class="btn btn-danger">hello</button>
+    </div>
+    <script>
+        fetch("/api/user").then(data=>{
+            return data.json()
+        }).then(data=>{
+            console.log(data);
+        })
+    </script>
+</body>
+</html>
