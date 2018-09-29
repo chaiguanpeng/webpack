@@ -67,3 +67,5 @@ console.log($);
     'jquery': "$" //window.$ = jquery
   },
 ```
+
+### devtool如果用到UglifyJsPlugin需要配置sourceMap:true
