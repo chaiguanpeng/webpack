@@ -20,7 +20,6 @@ class AsyncComponent extends React.Component{
         return Comp? <Comp/>: <div>loading</div>
     }
 }
-
 let Home = (props)=><AsyncComponent {...props} load={()=>import('./Home')}></AsyncComponent>
 let About = (props)=><AsyncComponent {...props} load={()=>import('./About')}></AsyncComponent>
 
