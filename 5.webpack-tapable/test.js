@@ -1,2 +1,7 @@
-let a = Array.from([1,2]);
-console.log(a);
+function a() {
+    return b()
+}
+function b() {
+    console.log(1);
+}
+a()
