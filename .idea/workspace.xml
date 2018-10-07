@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97173a85-f65f-4496-b429-a47ea18f3902" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/5.webpack-tapable/tapable/10.tapable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.webpack-tapable/tapable/5.AsyncParallelHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.webpack-tapable/tapable/6.AsyncParallelHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.webpack-tapable/tapable/7.AsyncParalleBaillHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.webpack-tapable/tapable/8.AsyncSeriesHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.webpack-tapable/tapable/9.AsyncSeriesWaterfallHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/demo/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/demo/2ArrowFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/demo/3Class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/demo/babel-plugin-babel-import.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.ast/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.webpack-tapable/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.webpack-tapable/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.webpack-tapable/tapable/SyncHook.js" beforeDir="false" afterPath="$PROJECT_DIR$/5.webpack-tapable/tapable/1.SyncHook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.webpack-tapable/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/5.webpack-tapable/test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,50 +25,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="9.AsyncSeriesWaterfallHook.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/9.AsyncSeriesWaterfallHook.js">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.ast/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="275">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8.AsyncSeriesHook.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/8.AsyncSeriesHook.js">
+      <file leaf-file-name="babel-plugin-babel-import.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.ast/node_modules/babel-plugin-babel-import.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="40" column="12" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="12" />
+            <state relative-caret-position="250">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.SyncHook.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/1.SyncHook.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="35" column="10" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="10" />
-            </state>
-          </provider>
+      <file leaf-file-name="babel-plugin-babel-import.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.ast/demo/babel-plugin-babel-import.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="10.tapable.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/10.tapable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.webpack-tapable/readme.md">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6.ast/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="250">
-                <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <first_editor relative-caret-position="50">
+                <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.ast/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -78,9 +74,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="react File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -91,6 +87,9 @@
       <find>react</find>
       <find>/***/</find>
       <find>tapAsync</find>
+      <find>flow</find>
+      <find>curry</find>
+      <find>compact</find>
     </findStrings>
     <replaceStrings>
       <replace>tapPromise</replace>
@@ -102,17 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2.webpack/src/index.js" />
-        <option value="$PROJECT_DIR$/2.webpack/README.md" />
-        <option value="$PROJECT_DIR$/4.webpack-optimize/.babelrc" />
-        <option value="$PROJECT_DIR$/4.webpack-optimize/src/a.js" />
-        <option value="$PROJECT_DIR$/4.webpack-optimize/src/index.js" />
-        <option value="$PROJECT_DIR$/4.webpack-optimize/package.json" />
-        <option value="$PROJECT_DIR$/4.webpack-optimize/src/index1.js" />
-        <option value="$PROJECT_DIR$/2.webpack-img/README.md" />
-        <option value="$PROJECT_DIR$/4.webpack-optimize/dist/react.mainfest.json" />
-        <option value="$PROJECT_DIR$/4.webpack-optimize/src/index.html" />
-        <option value="$PROJECT_DIR$/4.webpack-optimize/webpack.config.js" />
         <option value="$PROJECT_DIR$/4.webpack-optimize/README.md" />
         <option value="$PROJECT_DIR$/4.webpack-optimize/webpack.test.js" />
         <option value="$PROJECT_DIR$/4.webpack-optimize/dll/README.md" />
@@ -153,6 +141,17 @@
         <option value="$PROJECT_DIR$/5.webpack-tapable/tapable/8.AsyncSeriesHook.js" />
         <option value="$PROJECT_DIR$/5.webpack-tapable/tapable/9.AsyncSeriesWaterfallHook.js" />
         <option value="$PROJECT_DIR$/5.webpack-tapable/tapable/10.tapable.js" />
+        <option value="$PROJECT_DIR$/6.ast/demo/1.js" />
+        <option value="$PROJECT_DIR$/6.ast/demo/2.js" />
+        <option value="$PROJECT_DIR$/6.ast/demo/2ArrowFunction.js" />
+        <option value="$PROJECT_DIR$/6.ast/package.json" />
+        <option value="$PROJECT_DIR$/6.ast/src/index.html" />
+        <option value="$PROJECT_DIR$/6.ast/dist/bundle.js" />
+        <option value="$PROJECT_DIR$/6.ast/demo/3Class.js" />
+        <option value="$PROJECT_DIR$/6.ast/webpack.config.js" />
+        <option value="$PROJECT_DIR$/6.ast/node_modules/babel-plugin-babel-import.js" />
+        <option value="$PROJECT_DIR$/6.ast/src/index.js" />
+        <option value="$PROJECT_DIR$/6.ast/readme.md" />
       </list>
     </option>
   </component>
@@ -171,6 +170,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/1.webpack-base/node_modules" />
     <handled-path value="$PROJECT_DIR$/5.webpack-tapable/node_modules" />
+    <handled-path value="$PROJECT_DIR$/6.ast/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -184,11 +184,12 @@
       <path value="$PROJECT_DIR$/4.webpack-optimize/scope-hoisting/package.json" />
       <path value="$PROJECT_DIR$/4.webpack-optimize/tree-shaking/package.json" />
       <path value="$PROJECT_DIR$/5.webpack-tapable/package.json" />
+      <path value="$PROJECT_DIR$/6.ast/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="542" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="911" />
+    <option name="width" value="1011" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -207,18 +208,19 @@
             <path>
               <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="4.webpack-optimize" type="462c0819:PsiDirectoryNode" />
+              <item name="6.ast" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="5.webpack-tapable" type="462c0819:PsiDirectoryNode" />
+              <item name="6.ast" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="5.webpack-tapable" type="462c0819:PsiDirectoryNode" />
-              <item name="tapable" type="462c0819:PsiDirectoryNode" />
+              <item name="6.ast" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,16 +242,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\learn\webpack\5.webpack-tapable\tapable" />
-      <recent name="G:\learn\webpack\4.webpack-optimize\dll - 副本" />
-      <recent name="G:\learn\webpack\4.webpack-optimize\dll" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\learn\webpack\2.webpack" />
       <recent name="G:\learn\webpack\1.webpack" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\learn\webpack\6.ast\demo" />
+      <recent name="G:\learn\webpack\6.ast" />
+      <recent name="G:\learn\webpack\5.webpack-tapable\tapable" />
+      <recent name="G:\learn\webpack\4.webpack-optimize\dll - 副本" />
+      <recent name="G:\learn\webpack\4.webpack-optimize\dll" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,26 +269,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.10.tapable.js">
+  <component name="RunManager" selected="Node.js.3Class.js">
     <configuration name="10.tapable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="10.tapable.js" working-dir="$PROJECT_DIR$/5.webpack-tapable/tapable" />
-    <configuration name="6.AsyncParallelHook.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="6.AsyncParallelHook.js" working-dir="$PROJECT_DIR$/5.webpack-tapable/tapable" />
-    <configuration name="7.AsyncParalleBaillHook.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="7.AsyncParalleBaillHook.js" working-dir="$PROJECT_DIR$/5.webpack-tapable/tapable" />
-    <configuration name="8.AsyncSeriesHook.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="8.AsyncSeriesHook.js" working-dir="$PROJECT_DIR$/5.webpack-tapable/tapable" />
-    <configuration name="9.AsyncSeriesWaterfallHook.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="9.AsyncSeriesWaterfallHook.js" working-dir="$PROJECT_DIR$/5.webpack-tapable/tapable" />
+    <configuration name="1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1.js" working-dir="$PROJECT_DIR$/6.ast/demo" />
+    <configuration name="2ArrowFunction.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6.ast/demo/2ArrowFunction.js" working-dir="$PROJECT_DIR$/6.ast/demo" />
+    <configuration name="3Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3Class.js" working-dir="$PROJECT_DIR$/6.ast/demo" />
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/6.ast/src" />
     <list>
-      <item itemvalue="Node.js.6.AsyncParallelHook.js" />
-      <item itemvalue="Node.js.7.AsyncParalleBaillHook.js" />
-      <item itemvalue="Node.js.8.AsyncSeriesHook.js" />
-      <item itemvalue="Node.js.9.AsyncSeriesWaterfallHook.js" />
       <item itemvalue="Node.js.10.tapable.js" />
+      <item itemvalue="Node.js.1.js" />
+      <item itemvalue="Node.js.2ArrowFunction.js" />
+      <item itemvalue="Node.js.3Class.js" />
+      <item itemvalue="Node.js.index.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.3Class.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.1.js" />
+        <item itemvalue="Node.js.2ArrowFunction.js" />
         <item itemvalue="Node.js.10.tapable.js" />
-        <item itemvalue="Node.js.9.AsyncSeriesWaterfallHook.js" />
-        <item itemvalue="Node.js.8.AsyncSeriesHook.js" />
-        <item itemvalue="Node.js.7.AsyncParalleBaillHook.js" />
-        <item itemvalue="Node.js.6.AsyncParallelHook.js" />
       </list>
     </recent_temporary>
   </component>
@@ -308,12 +313,16 @@
       <workItem from="1538472460977" duration="6229000" />
       <workItem from="1538526775095" duration="12003000" />
       <workItem from="1538615812603" duration="1634000" />
-      <workItem from="1538617631381" duration="3240000" />
+      <workItem from="1538617631381" duration="4318000" />
+      <workItem from="1538636250103" duration="7156000" />
+      <workItem from="1538739816227" duration="2947000" />
+      <workItem from="1538746696946" duration="40000" />
+      <workItem from="1538891854458" duration="6071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60644000" />
+    <option name="totallyTimeSpent" value="77936000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,17 +334,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="762" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.019337017" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1691254" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33259913" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32824427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28244275" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.61177754" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -351,15 +361,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15068494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1691254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3053435" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32824427" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28244275" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.61177754" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -378,178 +388,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/dist/dll.js" />
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/README.md" />
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/dll/webpack.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/happypack/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/happypack/webpack.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/happypack/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/happypack/dist/index.html" />
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/happypack/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/happypack/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="35" column="11" selection-start-line="34" selection-start-column="38" selection-end-line="35" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/happypack/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/tree-shaking/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/dll/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/tree-shaking/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/scope-hoisting/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/scope-hoisting/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/scope-hoisting/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.webpack-base/save/2webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/src/About.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/src/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.tapable/package.json" />
-    <entry file="file://$PROJECT_DIR$/5.tapable/webpack.config.js" />
-    <entry file="file://$PROJECT_DIR$/5.tapable/node_modules/webpack-cli/bin/cli.js" />
-    <entry file="file://$PROJECT_DIR$/5.tapable/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/5.tapable/debugger.js" />
-    <entry file="file://$PROJECT_DIR$/5.tapable/dist/bundle.js" />
     <entry file="file://$PROJECT_DIR$/5.tapable/readme.md" />
     <entry file="file://$PROJECT_DIR$/5.webpack-tapable/src/index.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -570,13 +408,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5.webpack-tapable/node_modules/tapable/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/2.SyncBailHook.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -597,11 +429,6 @@
         <state relative-caret-position="257">
           <caret line="823" column="14" lean-forward="true" selection-start-line="823" selection-start-column="14" selection-end-line="823" selection-end-column="14" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.webpack-base/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/4.SyncLoopHook.js">
@@ -649,13 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/9.AsyncSeriesWaterfallHook.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/8.AsyncSeriesHook.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -672,8 +492,208 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/10.tapable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="200">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/tree-shaking/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/tree-shaking/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.webpack-tapable/tapable/9.AsyncSeriesWaterfallHook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/tree-shaking/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/dll/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.webpack-img/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.webpack-base/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/lazy-load/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/common/src/pageA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/dll/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/scope-hoisting/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.webpack-proxy+resolve/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/happypack/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/node_modules/@babel/types/lib/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/demo/3Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.webpack-proxy+resolve/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/tree-shaking/src/a.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/tree-shaking/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.webpack-optimize/tree-shaking/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/demo/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/demo/2ArrowFunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/dist/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6459">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/node_modules/babel-plugin-babel-import.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/demo/babel-plugin-babel-import.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ast/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="50">
+            <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
